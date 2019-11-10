@@ -1,0 +1,32 @@
+{
+	"data1": {
+		"nama": "Eko Sutrisno",
+		"npm": "1511050232",
+		"email": "ekosutrisno801@gmail.com",
+		"alamat": {
+			"jalan": "Jl. Masjid 3",
+			"Kecamatan": "Mega Kuningan",
+			"Kota": "Jakarta"
+		},
+		"hobi": [
+			"Bermain musik",
+			"Desain",
+			"Programmer"
+		]
+	},
+	"data2": {
+		"nama": "Eko Santoso",
+		"npm": "1511050234",
+		"email": "ekosantoso@gmail.com",
+		"alamat": {
+			"jalan": "Jl. Masjid 3",
+			"Kecamatan": "Gandaria, Blok M",
+			"Kota": "Jakarta"
+		},
+		"hobi": [
+			"Bermain musik",
+			"Desain",
+			"Programmer"
+		]
+	}
+}
